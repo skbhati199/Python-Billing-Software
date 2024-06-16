@@ -10,16 +10,16 @@ $ python main.py
 
 ## Screenshots
 #### Main PAGE
-![main window](https://github.com/PritKalariya/Billing-Software/blob/main/images/main.png)
+![main window](https://github.com/PritKalariya/Python-Billing-Software/blob/main/images/main.png)
 
 #### Employee Login PAGE
-![Employee Login window](https://github.com/PritKalariya/Billing-Software/blob/main/images/employee_login.png)
+![Employee Login window](https://github.com/PritKalariya/Python-Billing-Software/blob/main/images/employee_login.png)
 
 #### Billing Window
-![Billing window](https://github.com/PritKalariya/Billing-Software/blob/main/images/bill_window.png)
+![Billing window](https://github.com/PritKalariya/Python-Billing-Software/blob/main/images/bill_window.png)
 
 #### Admin DASHBOARD
-![Admin Dashboard](https://github.com/PritKalariya/Billing-Software/blob/main/images/admin.png)
+![Admin Dashboard](https://github.com/PritKalariya/Python-Billing-Software/blob/main/images/admin.png)
 
 ## Login Information
 #### Admin Login
